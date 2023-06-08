@@ -1,0 +1,13 @@
+# conda env create -f base_scanpy_env.yml
+name: base_scanpy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scanpy
+  - seaborn
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - scikit-learn
+  - scikit-image
+  - tifffile
