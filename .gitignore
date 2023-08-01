@@ -1,4 +1,7 @@
 data/
+*.pdf
+*.pkl
+*.h5ad
 #
 # Byte-compiled / optimized / DLL files
 __pycache__/

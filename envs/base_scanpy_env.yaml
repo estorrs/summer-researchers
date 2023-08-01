@@ -6,6 +6,7 @@ channels:
 dependencies:
   - scanpy
   - seaborn
+  - tornado==6.1
   - jupyter
   - jupyter_contrib_nbextensions
   - scikit-learn
